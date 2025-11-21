@@ -6,7 +6,9 @@ awscli
 bash
 berkeley-db
 black
+ccd2iso
 cffi
+checkmake
 cmake
 codecrafters
 copier
@@ -29,6 +31,7 @@ ghostscript
 git
 git-gui
 git-lfs
+gitlab-mcp
 gitleaks
 glab
 glib
@@ -52,6 +55,7 @@ jq
 jsonnet-bundler
 jupyterlab
 k9s
+kubectx
 kubernetes-cli
 libassuan
 libavif
@@ -68,12 +72,15 @@ lima
 little-cms2
 lychee
 macvim
+meson
 minikube
 mise
+mlton
 mypy
 neovim
 neovim-qt
 netpbm
+ninja
 node
 oci-cli
 ollama
@@ -88,6 +95,7 @@ perl
 pixman
 pkgconf
 postgresql@14
+pre-commit
 psutils
 pv
 pycodestyle
@@ -99,8 +107,8 @@ python@3.12
 qemu
 qt
 re2
-readline
 redis
+ripgrep
 ripsecrets
 runit
 sdl2
@@ -109,6 +117,7 @@ tcl-tk
 teleport
 telnet
 tesseract
+tmux
 tree
 turso
 unbound
@@ -123,5 +132,6 @@ yamllint
 ykman
 youtube-dl
 yq
+zellij
 zlib
 zstd

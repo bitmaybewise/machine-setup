@@ -1,0 +1,14 @@
+anki
+balenaetcher
+bluestacks
+deepl
+discord
+heroic
+kodi
+macfuse
+manyverse
+pokemon-tcg-live
+qbittorrent
+raspberry-pi-imager
+steam
+stremio
